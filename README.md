@@ -12,5 +12,5 @@ Predmet Algoritmy vo VUT v Brne
 - c016.c - tabuľka s rozptýlenými položkami
 
 ## Hodnotenie:
-- 1. Homework - 10b/10b
-- 2. Homework - 10b/10b
+- ###### 1. Homework - 10b/10b
+- ###### 2. Homework - 10b/10b
