@@ -1,2 +1,2 @@
 # IAL
-Predmet Algoritmy
+Predmet Algoritmy vo VUT v Brne
